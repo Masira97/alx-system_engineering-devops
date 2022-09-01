@@ -1,2 +1,2 @@
-i#!/bin/bash
-ls -pamv
+#!/bin/bash
+ls -apmv
